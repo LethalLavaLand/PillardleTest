@@ -22,7 +22,7 @@
  text-align: center; 
 }
 .backy{
-  background: url('http://raw.githubusercontent.com/LethalLavaLand/PillardleTest/main/TemplateData/Pillar.png')no-repeat right / cover;
+  background: url('http://raw.githubusercontent.com/LethalLavaLand/PillardleTest/main/TemplateData/Pillar.png');
   position: fixed;    
   bottom: 50%;
   right: 50%;
