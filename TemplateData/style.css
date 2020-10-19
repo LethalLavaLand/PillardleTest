@@ -37,8 +37,8 @@
   transform: translate(-50%, 0);
 }
 .backy{
-  background-image: url('Pillar.png');
-  background-color: #464646;
+ /* background-image: url('Pillar.png');
+  background-color: #464646; */
   position: fixed;    
   left: 50%;
   height: 100%;
