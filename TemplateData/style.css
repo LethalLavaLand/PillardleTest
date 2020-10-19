@@ -29,10 +29,11 @@
 }
 .toptitle{
   background-image: url('PageBackground.png');
+  background-size: cover;
   position: relative;   
-  height: 208px;
-  width: 1200px;
-  top: 30px;
+  height: 108px;
+  width: 625px;
+  top: 120px;
   left: 50%;
   transform: translate(-50%, 0);
 }
