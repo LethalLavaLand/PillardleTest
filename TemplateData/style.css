@@ -24,8 +24,8 @@
 .backy{
   background: url('http://raw.githubusercontent.com/LethalLavaLand/PillardleTest/main/TemplateData/PageBackground.png')no-repeat right / cover;
   position: fixed;
-  width = 1500px;
-  height = 3000px;
   bottom: 50%;
   right: 50%;
+  height = 3000px;
+  width = 1500px;
 }
