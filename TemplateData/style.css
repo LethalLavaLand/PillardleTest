@@ -22,10 +22,10 @@
  text-align: center; 
 }
 .backy{
+  background: url('http://raw.githubusercontent.com/LethalLavaLand/PillardleTest/main/TemplateData/PageBackground.png')no-repeat right / cover;
   position: fixed;
   bottom: 50%;
   right: 50%;
   width = 1500px;
   height = 3000px;
-  background-image: url('http://raw.githubusercontent.com/LethalLavaLand/PillardleTest/main/TemplateData/PageBackground.png');
 }
