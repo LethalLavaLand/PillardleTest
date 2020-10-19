@@ -19,9 +19,9 @@
 
 .toptitle{
   background-image: url('PageBackground.png');
-  position: fixed;
-  height: 300px;
-  width: 1000px;
+  height: 208px;
+  width: 1200px;
+  float: right;
 }
 .backy{
   background-image: url('Pillar.png');
