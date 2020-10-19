@@ -24,8 +24,7 @@
 .backy{
   background: url('http://raw.githubusercontent.com/LethalLavaLand/PillardleTest/main/TemplateData/Pillar.png');
   position: fixed;    
-  bottom: 50%;
-  right: 50%;
+  right: 20%;
   height: 100%;
-  width: 50%;
+  width: 40%;
 }
