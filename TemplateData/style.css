@@ -1,5 +1,5 @@
 .webgl-content * {border: 0; margin: 0; padding: 0}
-.webgl-content {position: absolute; top: 50%; left: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);}
+.webgl-content {position: absolute; top: 600px; left: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);}
 
 .webgl-content .logo, .progress {position: absolute; left: 50%; top: 50%; -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%);}
 .webgl-content .logo {background: url('progressLogo.Light.png') no-repeat center / contain; width: 154px; height: 130px;}
@@ -23,7 +23,7 @@
   position: relative;   
   height: 208px;
   width: 1200px;
-  bottom: 60px;
+  top: 30px;
   left: 50%;
   transform: translate(-50%, 0);
 }
