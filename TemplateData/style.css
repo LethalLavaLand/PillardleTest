@@ -18,8 +18,10 @@
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
 
 .toptitle{
-  font-size: 40px;
- text-align: center; 
+  background-image: url('PageBackground.png');
+  position: fixed;
+  height: 300px;
+  width: 1000px;
 }
 .backy{
   background-image: url('Pillar.png');
