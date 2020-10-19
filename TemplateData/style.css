@@ -17,11 +17,15 @@
 .webgl-content .footer .title {margin-right: 10px; float: right;}
 .webgl-content .footer .fullscreen {background-image: url('fullscreen.png'); width: 38px; float: right;}
 
+
 .toptitle{
   background-image: url('PageBackground.png');
+  position: relative;   
   height: 208px;
   width: 1200px;
-  float: right;
+  bottom: 60px;
+  left: 50%;
+  transform: translate(-50%, 0);
 }
 .backy{
   background-image: url('Pillar.png');
